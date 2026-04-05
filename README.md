@@ -1,7 +1,7 @@
 # JWaloen
 - Senior Systems Engineer
 - C/C++ and Cybernetics
-- Industrial Control Systems
+- Industrial Control Systems and Embedded Systems
 - Technical Risk and System Reliability
 
 ## 🔭 I’m currently working on ...
